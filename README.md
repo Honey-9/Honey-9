@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Honey</h1>
+<h3 align="center"> a passionate FrontEnd developer from India.</h3>
 
-<!--
-**Honey-9/Honey-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **C++, Python**
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **anything interesting enough**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **javascript, React, gsap, VS Code**
+
+- 📫 How to reach me **9667honeysingh@gmail.com**
+
+- ⚡ Fun fact **I can stay away from Basketball**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honey-9&theme=github_dark" />
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/____honey_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Honey-9" height="30" width="40" /></a>
+<a href="https://twitter.com/_Honey_9__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Honey." height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/honey-1287b91aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Honey ." height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/Honey%20." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="Honey ." height="30" width="40" /></a>
+</p>
+
