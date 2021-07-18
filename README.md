@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Honey</h1>
-<h3 align="center"> a passionate FrontEnd developer from India.</h3>
+<h3 align="center"> Passionate FrontEnd developer from India.</h3>
 
 - 🌱 I’m currently learning **C++, Python**
 
