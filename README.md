@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Honey</h1>
 <h3 align="center"> Passionate FrontEnd developer from India.</h3>
 
-- 🌱 I’m currently learning **C++, Python**
+- 🌱 I’m currently learning **Java, Python**
 
 - 👯 I’m looking to collaborate on **anything interesting enough**
 
