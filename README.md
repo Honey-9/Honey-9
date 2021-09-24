@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **javascript, React, gsap, VS Code**
 
-- 📫 How to reach me **9667honeysingh@gmail.com**
+- 📫 How to reach me **harshsingh9667903022@gmail.com**
 
 - ⚡ Fun fact **I can stay away from Basketball**
 
